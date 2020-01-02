@@ -23,6 +23,10 @@ It also has minimal support for a playback loop via a QTimer at 30fps.
 
 
 
-## Example
+## See It In Action
 
+`Playback example`
 ![QTimeline Playing](.github/resources/play.gif)
+
+`Autoscaling Drawing`
+![QTimeline Scaling](.github/resources/scale.gif)
