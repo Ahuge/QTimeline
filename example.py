@@ -11,7 +11,8 @@ sys.path.append(
     )
 )
 
-from timeline_controller import TimelineContainer
+from qtimeline import TimelineContainer
+
 
 def main():
 
