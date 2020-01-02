@@ -1,4 +1,4 @@
-from Qt import QtWidgets, QtCore
+from Qt import QtWidgets, QtGui, QtCore
 
 from .timeline import TimelineWidget
 
